@@ -1,0 +1,405 @@
+Building Damage Analysis Report
+Generated: 2025-08-12 15:24:26
+Image: building.jpg
+Total Damages: 80
+
+1. Short Crack - Medium Severity
+   Location: (731, 1723)
+   Dimensions: 97 x 22
+   Area: 241 pixels
+
+2. Short Crack - Medium Severity
+   Location: (346, 1569)
+   Dimensions: 31 x 7
+   Area: 111 pixels
+
+3. Short Crack - Medium Severity
+   Location: (3283, 1125)
+   Dimensions: 34 x 9
+   Area: 150 pixels
+
+4. Long Crack - High Severity
+   Location: (1162, 1235)
+   Dimensions: 361 x 97
+   Area: 1110 pixels
+
+5. Short Crack - Medium Severity
+   Location: (1701, 1054)
+   Dimensions: 47 x 11
+   Area: 157 pixels
+
+6. Short Crack - Medium Severity
+   Location: (1265, 1035)
+   Dimensions: 45 x 13
+   Area: 132 pixels
+
+7. Long Crack - High Severity
+   Location: (2519, 1038)
+   Dimensions: 146 x 24
+   Area: 601 pixels
+
+8. Long Crack - High Severity
+   Location: (745, 1077)
+   Dimensions: 112 x 32
+   Area: 238 pixels
+
+9. Long Crack - High Severity
+   Location: (668, 875)
+   Dimensions: 196 x 20
+   Area: 398 pixels
+
+10. Long Crack - High Severity
+   Location: (963, 882)
+   Dimensions: 261 x 36
+   Area: 635 pixels
+
+11. Short Crack - Medium Severity
+   Location: (718, 851)
+   Dimensions: 83 x 13
+   Area: 134 pixels
+
+12. Short Crack - Medium Severity
+   Location: (1774, 858)
+   Dimensions: 35 x 8
+   Area: 124 pixels
+
+13. Short Crack - Medium Severity
+   Location: (953, 825)
+   Dimensions: 54 x 14
+   Area: 118 pixels
+
+14. Short Crack - Low Severity
+   Location: (1132, 818)
+   Dimensions: 71 x 5
+   Area: 139 pixels
+
+15. Long Crack - Medium Severity
+   Location: (187, 814)
+   Dimensions: 137 x 3
+   Area: 268 pixels
+
+16. Short Crack - Medium Severity
+   Location: (3143, 703)
+   Dimensions: 87 x 6
+   Area: 405 pixels
+
+17. Long Crack - Medium Severity
+   Location: (3382, 702)
+   Dimensions: 159 x 7
+   Area: 673 pixels
+
+18. Short Crack - Medium Severity
+   Location: (3056, 702)
+   Dimensions: 82 x 7
+   Area: 387 pixels
+
+19. Short Crack - Medium Severity
+   Location: (1818, 676)
+   Dimensions: 60 x 13
+   Area: 440 pixels
+
+20. Short Crack - Medium Severity
+   Location: (2221, 649)
+   Dimensions: 57 x 8
+   Area: 130 pixels
+
+21. Long Crack - Medium Severity
+   Location: (3037, 645)
+   Dimensions: 196 x 4
+   Area: 389 pixels
+
+22. Long Crack - Medium Severity
+   Location: (3268, 645)
+   Dimensions: 111 x 6
+   Area: 284 pixels
+
+23. Short Crack - Medium Severity
+   Location: (3376, 643)
+   Dimensions: 55 x 12
+   Area: 238 pixels
+
+24. Short Crack - Medium Severity
+   Location: (2223, 625)
+   Dimensions: 60 x 8
+   Area: 151 pixels
+
+25. Short Crack - Medium Severity
+   Location: (2874, 621)
+   Dimensions: 31 x 9
+   Area: 118 pixels
+
+26. Long Crack - High Severity
+   Location: (2124, 614)
+   Dimensions: 144 x 18
+   Area: 374 pixels
+
+27. Short Crack - Medium Severity
+   Location: (1526, 608)
+   Dimensions: 80 x 19
+   Area: 276 pixels
+
+28. Long Crack - High Severity
+   Location: (1660, 594)
+   Dimensions: 107 x 28
+   Area: 535 pixels
+
+29. Short Crack - Medium Severity
+   Location: (3453, 579)
+   Dimensions: 87 x 15
+   Area: 397 pixels
+
+30. Short Crack - Medium Severity
+   Location: (2740, 558)
+   Dimensions: 37 x 10
+   Area: 120 pixels
+
+31. Long Crack - High Severity
+   Location: (234, 535)
+   Dimensions: 469 x 112
+   Area: 2843 pixels
+
+32. Long Crack - High Severity
+   Location: (3083, 472)
+   Dimensions: 138 x 11
+   Area: 622 pixels
+
+33. Long Crack - High Severity
+   Location: (529, 473)
+   Dimensions: 104 x 15
+   Area: 472 pixels
+
+34. Short Crack - Medium Severity
+   Location: (152, 472)
+   Dimensions: 78 x 18
+   Area: 478 pixels
+
+35. Short Crack - Medium Severity
+   Location: (253, 435)
+   Dimensions: 69 x 10
+   Area: 237 pixels
+
+36. Short Crack - Medium Severity
+   Location: (1848, 408)
+   Dimensions: 78 x 7
+   Area: 240 pixels
+
+37. Short Crack - Medium Severity
+   Location: (1154, 406)
+   Dimensions: 67 x 14
+   Area: 288 pixels
+
+38. Long Crack - High Severity
+   Location: (1972, 405)
+   Dimensions: 171 x 14
+   Area: 958 pixels
+
+39. Long Crack - High Severity
+   Location: (1606, 404)
+   Dimensions: 133 x 15
+   Area: 738 pixels
+
+40. Long Crack - High Severity
+   Location: (1751, 396)
+   Dimensions: 113 x 32
+   Area: 978 pixels
+
+41. Long Crack - High Severity
+   Location: (1038, 394)
+   Dimensions: 164 x 33
+   Area: 907 pixels
+
+42. Long Crack - High Severity
+   Location: (2687, 375)
+   Dimensions: 145 x 19
+   Area: 1096 pixels
+
+43. Long Crack - High Severity
+   Location: (2963, 373)
+   Dimensions: 110 x 16
+   Area: 326 pixels
+
+44. Short Crack - Medium Severity
+   Location: (3398, 348)
+   Dimensions: 55 x 14
+   Area: 260 pixels
+
+45. Long Crack - High Severity
+   Location: (2901, 299)
+   Dimensions: 118 x 20
+   Area: 456 pixels
+
+46. Long Crack - Medium Severity
+   Location: (2610, 290)
+   Dimensions: 113 x 10
+   Area: 584 pixels
+
+47. Long Crack - High Severity
+   Location: (2728, 294)
+   Dimensions: 160 x 32
+   Area: 1604 pixels
+
+48. Short Crack - Low Severity
+   Location: (785, 279)
+   Dimensions: 61 x 5
+   Area: 122 pixels
+
+49. Short Crack - Medium Severity
+   Location: (611, 277)
+   Dimensions: 51 x 10
+   Area: 161 pixels
+
+50. Short Crack - Medium Severity
+   Location: (985, 261)
+   Dimensions: 30 x 9
+   Area: 133 pixels
+
+51. Short Crack - Medium Severity
+   Location: (2408, 253)
+   Dimensions: 26 x 7
+   Area: 102 pixels
+
+52. Short Crack - Medium Severity
+   Location: (2466, 253)
+   Dimensions: 85 x 12
+   Area: 337 pixels
+
+53. Short Crack - Medium Severity
+   Location: (3182, 251)
+   Dimensions: 71 x 12
+   Area: 332 pixels
+
+54. Long Crack - High Severity
+   Location: (1556, 238)
+   Dimensions: 104 x 12
+   Area: 265 pixels
+
+55. Short Crack - Medium Severity
+   Location: (1390, 237)
+   Dimensions: 61 x 11
+   Area: 246 pixels
+
+56. Long Crack - High Severity
+   Location: (1844, 271)
+   Dimensions: 435 x 88
+   Area: 1682 pixels
+
+57. Short Crack - Medium Severity
+   Location: (2754, 220)
+   Dimensions: 76 x 14
+   Area: 484 pixels
+
+58. Long Crack - High Severity
+   Location: (2104, 221)
+   Dimensions: 168 x 24
+   Area: 872 pixels
+
+59. Short Crack - Medium Severity
+   Location: (1038, 210)
+   Dimensions: 69 x 14
+   Area: 388 pixels
+
+60. Long Crack - High Severity
+   Location: (1633, 185)
+   Dimensions: 240 x 20
+   Area: 1100 pixels
+
+61. Long Crack - High Severity
+   Location: (1886, 176)
+   Dimensions: 265 x 41
+   Area: 1681 pixels
+
+62. Long Crack - Medium Severity
+   Location: (2414, 122)
+   Dimensions: 129 x 5
+   Area: 300 pixels
+
+63. Long Crack - High Severity
+   Location: (2624, 138)
+   Dimensions: 170 x 38
+   Area: 431 pixels
+
+64. Short Crack - Medium Severity
+   Location: (1825, 117)
+   Dimensions: 48 x 6
+   Area: 226 pixels
+
+65. Short Crack - Medium Severity
+   Location: (1003, 114)
+   Dimensions: 47 x 6
+   Area: 110 pixels
+
+66. Short Crack - Medium Severity
+   Location: (2542, 94)
+   Dimensions: 35 x 8
+   Area: 111 pixels
+
+67. Short Crack - Medium Severity
+   Location: (2485, 94)
+   Dimensions: 69 x 15
+   Area: 256 pixels
+
+68. Short Crack - Medium Severity
+   Location: (2340, 90)
+   Dimensions: 44 x 7
+   Area: 116 pixels
+
+69. Short Crack - Medium Severity
+   Location: (2631, 94)
+   Dimensions: 69 x 17
+   Area: 289 pixels
+
+70. Short Crack - Medium Severity
+   Location: (1746, 81)
+   Dimensions: 58 x 9
+   Area: 159 pixels
+
+71. Short Crack - Medium Severity
+   Location: (1168, 81)
+   Dimensions: 42 x 8
+   Area: 176 pixels
+
+72. Short Crack - Medium Severity
+   Location: (1850, 80)
+   Dimensions: 53 x 9
+   Area: 149 pixels
+
+73. Short Crack - Medium Severity
+   Location: (1913, 79)
+   Dimensions: 55 x 10
+   Area: 157 pixels
+
+74. Short Crack - Medium Severity
+   Location: (1617, 87)
+   Dimensions: 98 x 26
+   Area: 304 pixels
+
+75. Long Crack - High Severity
+   Location: (1816, 49)
+   Dimensions: 109 x 20
+   Area: 560 pixels
+
+76. Short Crack - Medium Severity
+   Location: (1246, 42)
+   Dimensions: 90 x 7
+   Area: 325 pixels
+
+77. Short Crack - Medium Severity
+   Location: (1532, 20)
+   Dimensions: 64 x 17
+   Area: 322 pixels
+
+78. Long Crack - High Severity
+   Location: (1263, 20)
+   Dimensions: 149 x 31
+   Area: 441 pixels
+
+79. Short Crack - Medium Severity
+   Location: (1093, 7)
+   Dimensions: 58 x 6
+   Area: 160 pixels
+
+80. Long Crack - High Severity
+   Location: (2310, 7)
+   Dimensions: 185 x 14
+   Area: 520 pixels
+
